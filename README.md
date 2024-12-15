@@ -1,2 +1,3 @@
-# adventOfCode24
-# rahhhhh
+# Advent of Code 2024
+
+haven't used java in like a year... 
